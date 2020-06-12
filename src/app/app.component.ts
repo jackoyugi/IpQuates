@@ -11,5 +11,6 @@ export class AppComponent {
   quotes:Quote[] = [
 
   ];
+  myImage: "assets/img/bac-jpg";
   
 }
