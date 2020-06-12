@@ -1,0 +1,11 @@
+.card-body {
+    background-color: rgba(114, 150, 127, 0.2);
+}
+@media (max-width: 740px) {
+    .full-height,
+    .full-height body,
+    .full-height header,
+    .full-height header .view {
+      height: 1040px;
+    }
+  }
