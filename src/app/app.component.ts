@@ -9,9 +9,7 @@ import {Quote} from './quote'
 })
 export class AppComponent {
   quotes:Quote[] = [
-    {id:1,name:'Inspirational quote'},
-    {id:2,name:'Entrepreneural quotes'},
-    {id:3,name:'African quotes'},
+
   ];
   
 }
