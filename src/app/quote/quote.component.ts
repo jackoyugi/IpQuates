@@ -14,6 +14,16 @@ export class QuoteComponent implements OnInit {
     new Quote(2, 'Steve Martin Entrepreneural Quotes', 'Be so good they can’t ignore you'),
     new Quote(3,'Jack Oyugi African Quotes', 'If you are not part of the solution then you are part of the problem'),
   ];
+
+  toggleDetails(index){
+    this.quotes[index].showDescription = !this.quotes[index].showDescription
+  }
+
+  completeQuote(isComplete, index){
+    if(isComplete){
+      this.quotes.splice(index, 1);
+    }
+  }
   
 
   constructor() { }
