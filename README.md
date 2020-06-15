@@ -1,14 +1,29 @@
 # Quotes
+<img src="../assets/img/bac.jpg">
 
  ## By Jack Oyugi
 
 ### on 12, Jun, 2020
 
 # Description
-This app enable one to see some types of quotes by most influence people, `one can also load their own desired vote `lastly one can `upvote on down vote on the quotes`
+This app enable one to see some types of quotes by most influence people, `one can also load their own desired vote `lastly one can `upvote on down vote on the quotes` or delete the quote
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## BDD
+## Inputs
+<li>Users are able to see and select the quotes they wish to view through toggle quote button </li>
+<li>Users are able to upvote for the quotes of their choice through upvote button</li>
+<li>Users are able to downvote the quotes of their choice through downvote button</li>
+<li>Users are able to add other quotes and dates when the quote was released through add vote</l>
+<li>Users can delete quotes they dont want through delete button</li>
+
+## Output
+<li>Users are able to see the quotes while they are typing in real time</li>
+<li>Users are able to see the quotes added and still vote</li>
+<li>Users are able to validate and submkit quotes in real time</li>
+<li>Users can see the number of votes they for each quote</li>
+<li>Users wont see the deleted quote</li>
+
 
 
 ## Technologies Used

@@ -1,3 +1,4 @@
-.background-image{
+.backImage{
     background-image: url('../assets/img/bac.jpg');
+    background-image: cover;
 }
