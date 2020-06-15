@@ -36,7 +36,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 </ol>
 
 ## Github deployment link
-https://jackoyugi-github.io/IpQuates/
+https://jackoyugi.github.io/IpQuates/
 
 # Contact 
 For any inquery or input and contributions check out to me
